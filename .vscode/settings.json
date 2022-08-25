@@ -1,0 +1,14 @@
+{
+  "editor.codeActionsOnSave": { "source.fixAll.eslint": true, "source.fixAll.stylelint": true },
+  "editor.formatOnSave": true,
+  "eslint.alwaysShowStatus": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.autoSave": "onFocusChange",
+  "files.associations": {
+    "*.jsx": "javascriptreact",
+    "*.tsx": "typescriptreact"
+  },
+  "css.validate": false,
+  "stylelint.validate": ["css", "postcss"],
+  "stylelint.enable": true
+}
